@@ -9,15 +9,14 @@ function Header() {
   return (
     <header className="hero">
       <div className="container">
-        <div className="subtitle">Wildlife Conservation</div>
+        <div className="subtitle">Echoes of the Wild</div>
         <h1 className="title">Tiger Tales</h1>
-        <div className="tagline">Conservation, Habitat & Fascinating Facts</div>
+        <div className="tagline">Journey into the Realm of the Striped Kings</div>
         <div className="description">
-          A comprehensive look into the world of tigers, their fight for survival, 
-          natural habitats around the world, and the most fascinating characteristics 
-          that make these big cats one of nature's most magnificent creatures.
+          Uncover the urgent conservation sagas, explore the diverse habitats, delve into the fascinating behaviors, 
+          and marvel at the unique characteristics of tigers. This blog is a tribute to their power, beauty, and fight for survival.
         </div>
-        <a href="#conservation" className="btn btn-large">Explore</a>
+        <a href="#conservation" className="btn btn-large">Begin Exploration</a>
       </div>
     </header>
   );
