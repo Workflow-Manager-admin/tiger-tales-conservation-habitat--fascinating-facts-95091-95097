@@ -11,11 +11,13 @@ function Navigation() {
       <div className="container">
         <div className="navbar-content">
           <div className="logo">
-            <span className="logo-symbol">🐯</span> Tiger Tales
+            <span className="logo-symbol">🐅</span> Tiger Tales
           </div>
           <div className="nav-links">
             <a href="#conservation" className="nav-link">Conservation</a>
             <a href="#habitat" className="nav-link">Habitat</a>
+            <a href="#subspecies" className="nav-link">Subspecies</a>
+            <a href="#behavior" className="nav-link">Behavior</a>
             <a href="#facts" className="nav-link">Facts</a>
             <a href="#gallery" className="nav-link">Gallery</a>
           </div>
