@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/tiger-tales-conservation-habitat--fascinating-facts-95091-95097/main_container"
+}
